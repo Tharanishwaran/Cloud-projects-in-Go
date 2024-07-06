@@ -1,2 +1,2 @@
 # Cloud-projects-in-Go
-* IN this repo you can learn how to build cloud architechture in golang
+* In this repo you can learn how to build cloud architecture and cloud computing in golang
